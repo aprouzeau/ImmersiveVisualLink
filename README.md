@@ -12,7 +12,7 @@ To setup in your Unity project:
 You can have a look at the TestScene (IVL/Scene/TestScene) to see a demo.
 
 To set up the script:
-![Ubundle Script](https://imgur.com/0bkQHn2 "Ubundle Script")
+![Ubundle Script](https://i.imgur.com/0bkQHn2.png "Ubundle Script")
 
 
 ## Paper
