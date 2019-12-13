@@ -1,6 +1,15 @@
 # Immersive Visual Link
 Routing of visual links in immersive environments
 
+## Setup
+
+To setup in your Unity project:
+1. Download or clone this project
+2. Place the IVL folder in your Assets folder of your Unity project
+3. Create an empty game object and add the script "UnbundleFD" on it
+4. Setup the different parameters of the script
+
+You can have a look at the TestScene (IVL/Scene/TestScene) to see a demo.
 
 ## Paper
 Paper is accessible here: [paper](https://hal.archives-ouvertes.fr/hal-02301985)
