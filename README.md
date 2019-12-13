@@ -11,6 +11,10 @@ To setup in your Unity project:
 
 You can have a look at the TestScene (IVL/Scene/TestScene) to see a demo.
 
+To set up the script:
+![Ubundle Script](https://imgur.com/0bkQHn2 "Ubundle Script")
+
+
 ## Paper
 Paper is accessible here: [paper](https://hal.archives-ouvertes.fr/hal-02301985)
 
@@ -19,3 +23,9 @@ Paper is accessible here: [paper](https://hal.archives-ouvertes.fr/hal-02301985)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=xi0wiLzIZAQ
 " target="_blank"><img src="http://img.youtube.com/vi/xi0wiLzIZAQ/0.jpg" 
 alt="Paper Video" width="240" height="180" border="10" /></a>
+
+## Team
+
+This is developed by Arnaud Prouzeau (project leader, Monash University), Antoine Lhuillier (Stuttgart University), Barrett Ens (Monash University), Daniel Weiskopf (Stuttgart University), and Tim Dwyer (Monash University).
+
+
