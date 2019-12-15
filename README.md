@@ -13,7 +13,7 @@ You can have a look at the TestScene (IVL/Scene/TestScene) to see a demo.
 
 To set up the script:
 
-![Ubundle Script](https://i.imgur.com/0bkQHn2.png "Ubundle Script")
+![Ubundle Script](https://imgur.com/bf2akF2.png "Ubundle Script")
 
 
 ## Paper
