@@ -8,6 +8,7 @@ To setup in your Unity project:
 2. Place the IVL folder in your Assets folder of your Unity project
 3. Create an empty game object and add the script "UnbundleFD" on it
 4. Setup the different parameters of the script
+5. Call the function ``initUnbundling`` with a list of KeyValue of the game objects to link.
 
 You can have a look at the TestScene (IVL/Scene/TestScene) to see a demo.
 
